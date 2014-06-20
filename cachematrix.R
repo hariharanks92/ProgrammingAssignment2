@@ -23,7 +23,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Cheecks the cache of the inverse already exists
+## Checks the cache of the inverse already exists
 ## If it doesnt, then creates the inverse using solve function
 ## and inputs the value by in the setInverse function of the makeCacheMatric function
 
